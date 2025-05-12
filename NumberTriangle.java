@@ -1,7 +1,9 @@
 import java.util.Scanner;
+
 public class NumberTriangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
         System.out.print("Enter the number of rows for the number triangle: ");
         int rows = scanner.nextInt();
         
