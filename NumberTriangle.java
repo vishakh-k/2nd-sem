@@ -13,7 +13,6 @@ public class NumberTriangle {
             }
             System.out.println();
         }
-        
         scanner.close();
     }
 }
